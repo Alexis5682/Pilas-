@@ -7,7 +7,9 @@ package ListasEnlazadas;
 
 /**
  *
- * @author EDUARDO
+ * @author Alexis Urias
+   0901-17-4397
+ 
  */
 public class Inicio {
 
